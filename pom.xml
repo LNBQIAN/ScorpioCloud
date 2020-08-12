@@ -14,6 +14,10 @@
         <module>Scorpio-Generator</module>
         <module>Scorpio-Admin</module>
         <module>Scorpio-Swagger</module>
+        <module>Scorpio-RabbitMQ</module>
+        <module>Scorpio-RocketMQ</module>
+        <module>Scorpio-Redis</module>
+        <module>Scorpio-Quartz</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
